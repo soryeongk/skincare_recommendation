@@ -207,21 +207,21 @@
 
 아주 빠르게 만들어서 빠르게 실험하고 철수할 예정이기 때문에 퀄리티는 중요하지 않다고 생각했습니다. 중요한 건 해당 정보에 얼마나 많은 고객님들이 관심을 갖는지 입니다. 제품의 사진은 각 홍보 사이트에서,  정보는 [Olive Young 홈페이지](www.oliveyoung.co.kr)에서 가져왔습니다. 매장에 비치하는 종이는 아래와 같습니다.
 
-![스킨케어 단계](skincare_summary/skincare01.jpg)
+![스킨케어 단계](skincare_summary/skincare01.JPG)
 
-![스킨케어 단계](skincare_summary/skincare02.jpg)
+![스킨케어 단계](skincare_summary/skincare02.JPG)
 
-![스킨케어 단계](skincare_summary/skincare03.jpg)
+![스킨케어 단계](skincare_summary/skincare03.JPG)
 
-![스킨케어 단계](skincare_summary/skincare04.jpg)
+![스킨케어 단계](skincare_summary/skincare04.JPG)
 
-![스킨케어 단계](skincare_summary/skincare05.jpg)
+![스킨케어 단계](skincare_summary/skincare05.JPG)
 
-![스킨케어 단계](skincare_summary/skincare06.jpg)
+![스킨케어 단계](skincare_summary/skincare06.JPG)
 
-![스킨케어 단계](skincare_summary/skincare07.jpg)
+![스킨케어 단계](skincare_summary/skincare07.JPG)
 
-![스킨케어 단계](skincare_summary/skincare08.jpg)
+![스킨케어 단계](skincare_summary/skincare08.JPG)
 
-![스킨케어 단계](skincare_summary/skincare09.jpg)
+![스킨케어 단계](skincare_summary/skincare09.JPG)
 
