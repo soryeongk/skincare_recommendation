@@ -223,3 +223,5 @@
 
 ![스킨케어 단계](skincare_summary/skincare08.jpg)
 
+![스킨케어 단계](skincare_summary/skincare09.jpg)
+
